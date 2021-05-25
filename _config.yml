@@ -5,7 +5,7 @@ author_name:        "Cristiano Santos"
 logo_url:           https://avatars.githubusercontent.com/u/4166006?v=4
 
 # Site Settings
-url:                https://cristianossd.github.io/blog # main url
+url:                https://cristianossd.github.io # main url
 permalink:          /:title # Post permalink
 timezone:           America/Sao_Paulo # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
