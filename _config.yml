@@ -1,0 +1,42 @@
+# Site Info
+title:              "Blog - Cristiano"
+description:        "My journey as a Software Engineer"
+author_name:        "Cristiano Santos"
+logo_url:           https://avatars.githubusercontent.com/u/4166006?v=4
+
+# Site Settings
+url:                https://cristianossd.github.io/blog # main url
+permalink:          /:title # Post permalink
+timezone:           America/Sao_Paulo # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+mathjax:            true  # enables support for mathjax - set to 'false' to disable
+
+# Site Build
+highlighter:        rouge
+markdown:           kramdown
+kramdown:
+    input:          GFM
+sass:
+    style:          :compressed
+
+# Other Params
+include:            [ "robots.txt" ]
+exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script" ]
+plugins:
+  - jekyll-sitemap
+
+defaults:
+  -
+    scope:
+      path:         ""
+    values:
+      layout:       "null"
+  -
+    scope:
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      type:         "posts"
+    values:
+      layout:       "post"
