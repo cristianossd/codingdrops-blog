@@ -1,7 +1,9 @@
 # Blog
 
-My simple personal blog using [Jekyll](https://jekyllrb.com/).
+A simple blog implementation. It won't have a fixed stack, check the **Built with** section
+describing current technologies.
 
-### Theme
+#### Built With
 
-- [**The Plain**](https://github.com/heiswayi/the-plain)
+- [Jekyll](https://jekyllrb.com/): Transform your plain text into static websites and blogs
+- [The Plain](https://github.com/heiswayi/the-plain): A minimalist Jekyll theme
