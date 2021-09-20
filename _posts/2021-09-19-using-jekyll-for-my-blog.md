@@ -90,3 +90,10 @@ be nice to back deal with Ruby environment and to create my own template.
 
 Finally, thfreedom is also about creating my own blog engine. The journey starts here and seeks this
 challenge.
+
+## References
+
+- [Comparison of Gatsby vs Jekyll vs Hugo](https://www.gatsbyjs.com/features/jamstack/gatsby-vs-jekyll-vs-hugo)
+- [Gatsby Docs](https://www.gatsbyjs.com/)
+- [Jekyll Docs](https://jekyllrb.com/docs/)
+- [Jekyll - Liquid](https://jekyllrb.com/docs/liquid/)
