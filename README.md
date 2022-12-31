@@ -1,7 +1,7 @@
-# Blog
+# Coding Drops (Blog)
 
-A simple blog implementation. It won't have a fixed stack, check the **Built with** section
-describing current technologies.
+This project contains the blog files for [codingdrops.io](codingdrops.io). It has no fixed stack,
+check the **Built with** section which describes the current technologies.
 
 #### Built With
 
