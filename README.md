@@ -6,7 +6,7 @@
 
 <img src="cover.png" alt="cover">
 
-> This project contains the blog files for [codingdrops.io](codingdrops.io)
+> This project contains the blog files for [codingdrops.io](http://codingdrops.io)
 
 It has no fixed stack, check the **Built with** section which describes the current technologies.
 
