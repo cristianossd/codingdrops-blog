@@ -18,6 +18,9 @@ kramdown:
 sass:
     style:          :compressed
 
+# Analytics
+google_analytics: G-R3Y88P7YHB
+
 # Other Params
 include:            [ "robots.txt" ]
 exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script" ]
