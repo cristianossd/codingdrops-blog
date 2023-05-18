@@ -53,7 +53,7 @@ practices, less than for authors, but important in the same way:
 * Reserve the appropriate time to review;
 * Provide constructive and actionable comments in the code;
 * Prefer team consistency over personal. The remaining codebase must stay consistent; 
-* Avoid long discussions in the code review. Rely on addressing them offline (Slack);
+* Avoid long discussions in the code review. Rely on addressing them offline (Slack, Teams, etc);
 * Share positive feedback. Good work recognition is always welcome;
 * Evaluate the approach and implementation design before style;
 * "Oh, but I have a lot of work to do"... Please, don't be a bottleneck. Prioritize unblocking your teammates by reviewing over implementing your code;
