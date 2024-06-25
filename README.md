@@ -47,6 +47,7 @@ Source ([Jekyll docs](https://jekyllrb.com/docs/installation/#requirements))
 
   ```sh
   make deps
+  make install
   ```
 
 ### Usage
